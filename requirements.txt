@@ -1,3 +1,4 @@
 openai>=0.28.1
 Flask
 python-dotenv
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
